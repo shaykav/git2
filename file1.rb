@@ -1,1 +1,2 @@
 puts 'bugfix'
+new color
